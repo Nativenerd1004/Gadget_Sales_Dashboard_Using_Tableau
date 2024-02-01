@@ -21,9 +21,9 @@
 The Sterling Sales Performance Dashboard provides detailed insights into the sales performance of the e-commerce platform, including total revenue, customer distribution, and product category performance. The project aims to analyze and understand the key factors driving sales and revenue. Key stakeholders include the sales and marketing teams, as well as the executive leadership.
 
 
-<img width="250" alt="Gadget Hack Overview Dashboard" src="https://github.com/Nativenerd1004/Gadget_Sales_Dashboard_Using_Tableau/assets/149740069/8c8782de-498f-438f-82b8-25a89c7af029">
-<img width="250" alt="Gadget Hack Profit Overview" src="https://github.com/Nativenerd1004/Gadget_Sales_Dashboard_Using_Tableau/assets/149740069/ac7972a3-b785-42cc-9307-c0ffc5a375c3">
-<img width="250" alt="Gadget Hack Forecasting" src="https://github.com/Nativenerd1004/Gadget_Sales_Dashboard_Using_Tableau/assets/149740069/a7250906-d852-4a68-97fa-98a4407e1924">
+<img width="350" alt="Gadget Hack Overview Dashboard" src="https://github.com/Nativenerd1004/Gadget_Sales_Dashboard_Using_Tableau/assets/149740069/8c8782de-498f-438f-82b8-25a89c7af029">
+<img width="350" alt="Gadget Hack Profit Overview" src="https://github.com/Nativenerd1004/Gadget_Sales_Dashboard_Using_Tableau/assets/149740069/ac7972a3-b785-42cc-9307-c0ffc5a375c3">
+<img width="350" alt="Gadget Hack Forecasting" src="https://github.com/Nativenerd1004/Gadget_Sales_Dashboard_Using_Tableau/assets/149740069/a7250906-d852-4a68-97fa-98a4407e1924">
 
 
 
