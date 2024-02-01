@@ -81,10 +81,10 @@ For better understanding to a layman, I used the STAR approach of analyzing proj
 - **Situation:** Gadget Hack Central sought insights into their business performance and efficiency through a comprehensive Tableau dashboard.
 - **Task:** Develop a data-driven dashboard focusing on key metrics, including customer distribution, revenue generation, product performance, and trends over time.
 - **Action:** Leveraging data provided by the company, data was gathered incrementally from representatives and cleaned extensively before dashboard development.
-- **Result:** The dashboard aims to provide comprehensive insights into the sales performance of the e-commerce platform. It seeks to analyze and understand the distribution of customers across different genders, determine the total amount of revenue generated in the last years, and identify the profits made by product categories. Additionally, the dashboard aims to explore the overall distribution of orders and revenue across different product categories, investigate the most commonly used payment methods by customers and the payment method generating the highest revenue, examine the evolution of revenue generated over time through visualizations, and highlight the top 10 states revenue generation. These objectives collectively aim to facilitate informed decision-making and strategic planning based on a thorough understanding of the e-commerce platform's sales performance.
+- **Result:** The dashboard aims to provide comprehensive insights into the sales performance of Gadget Hack Central. It seeks to analyze and understand the distribution of customers across different genders, determine the total amount of profit generated in the last years, and identify the profits made by product categories. Additionally, the dashboard aims to explore the overall distribution of profits across different product categories, investigate the most commonly used payment methods by customers and the payment method generating the highest revenue, examine the evolution of revenue generated over time through visualizations, and highlight the profits derived from each of the age group. These objectives collectively aim to facilitate informed decision-making and strategic planning based on a thorough understanding of the e-commerce platform's sales performance.
 
 ## Project Objectives
-- **Situation:** The E-commerce business desired specific insights, including their customer distribution, revenue overview, product performance, payment method analysis, revenue trends, and geographical analysis.
+- **Situation:** Gadget Hack Central business desired specific insights, including their customer distribution, revenue overview, product performance, payment method analysis, revenue trends, and geographical analysis.
 - **Task:** I defined and achieved the objectives through gender distribution analysis, revenue calculation accuracy, and identification of top-performing products. etc
 - **Action:** I collaboratively gathered accurate data bit by bit, cleaned the data thoroughly, and developed actionable insights.
 - **Result:** The objectives guided the project to deliver precise gender distribution, revenue insights, and product recommendations.
@@ -93,12 +93,12 @@ For better understanding to a layman, I used the STAR approach of analyzing proj
 - **Situation:** The project required accurate and relevant data.
 - **Task:** I gathered data collaboratively from company representatives.
 - **Action:** I engaged in a step-by-step data collection process.
-- **Result:** Data was gathered comprehensively using excel sharepoint feature and validation to ensure completeness and accuracy.
+- **Result:** Data was gathered comprehensively using excel sharepoint feature and validation to ensure completeness and accuracy before importing into Tableau.
 
 ## Data Preprocessing
 - **Situation:** Categorical and numerical data needed refinement for accuracy.
 - **Task:** I Cleaned the data to address inconsistencies, missing values, and outliers.
-- **Action:** I undertook a thorough cleaning process in collaboration with the company's sales analyst.
+- **Action:** I undertook a thorough cleaning process in collaboration with the company's sales representatives.
 - **Result:** Data preprocessing ensures accurate and reliable insights.
 
 ## Evaluation Metrics
